@@ -49,7 +49,7 @@ if (isset($_POST['submit'])) {
 			<!-- <a href="https://www.youtube.com/"> -->
 				<button name="submit" class="btn">Login</button>
 			</div>
-			<p class="login-register-text">Don't have an account?<a href="register.php"></a></p>
+			<p class="login-register-text">Don't have an account?<a href="register.php">Register here</a></p>
 		</form>
 	</div>
 </body>
